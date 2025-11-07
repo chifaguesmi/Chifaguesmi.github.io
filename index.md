@@ -15,7 +15,7 @@ Mon parcours m’a permis de combiner mes compétences techniques et artistiques
 ---
 
 ## 🧠 Compétences
-- **Développement :** Python, Java, HTML/CSS, Git, SQL  
+- **Développement :** Python, Java, HTML/CSS, Git, SQL 
 - **Outils :** VS Code, GitHub, Canva, Photoshop  
 - **Soft skills :** Leadership, Communication, Créativité, Organisation  
 
@@ -23,14 +23,12 @@ Mon parcours m’a permis de combiner mes compétences techniques et artistiques
 
 ## 🚀 Projets récents
 
-### 🎵 Binary Beats
-> Responsable média dans un club musical universitaire — gestion du contenu, communication visuelle, et stratégie digitale.
+
 
 ### 💻 Projet de recherche d’information (ISIMM)
 > Conception d’un moteur de recherche en Python avec NLTK pour le traitement automatique du langage.
 
-### 🎤 Performances musicales
-> Participation à des événements artistiques universitaires — chant et coordination technique.
+
 
 ---
 
@@ -41,10 +39,11 @@ Mon parcours m’a permis de combiner mes compétences techniques et artistiques
 ---
 
 ## 📫 Me contacter
-📧 **Email :** chifa.guesmi@example.com  
+📧 **Email :** chifaguesmi@ieee.org / chifaguesmi9@gmail.com
+
 💼 [GitHub](https://github.com/chifaguesmi)  
 🔗 [LinkedIn](https://www.linkedin.com/in/chifaguesmi)  
-📸 [Instagram](https://www.instagram.com/)
+
 
 ---
 
