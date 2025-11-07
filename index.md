@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur ma page personnelle
 
-![Photo de profil](profile.jpg)
+![Photo de profil](image_123650291 (1).JPG)
 
 Je m'appelle **Chifa Guesmi**, je suis passionnée par l’informatique, la musique 🎶 et les projets créatifs.  
 Ce site me permet de partager un peu de mon parcours et de mes réalisations.
